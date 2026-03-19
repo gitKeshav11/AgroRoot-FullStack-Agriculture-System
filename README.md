@@ -3,7 +3,6 @@
 AgroRoot ek **full-stack web application** hai jo farmers aur agriculture ecosystem ke liye modern digital solutions provide karta hai. Yeh project scalable architecture ke saath design kiya gaya hai jisme frontend aur backend clearly separated hain.
 
 
-
 ---
 
 # 📌 Table of Contents
